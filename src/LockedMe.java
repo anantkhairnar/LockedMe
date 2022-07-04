@@ -42,7 +42,7 @@ static final String Path ="C:\\Users\\LENOVO\\Desktop\\New folder";
 	{
 		System.out.println("**************************************************************");
 		System.out.println("\tWelcome to company Lockers:- LockersMe.com");
-		System.out.println("\tDeveloper name : ANANT KEDA KHAIRNAR");
+		System.out.println("\tDeveloper name : ANANT KHAIRNAR");
 		System.out.println("***************************************************************");
 		System.out.println("\t1.Display all the files");
 		System.out.println("\t2. Add files to existing directory");
